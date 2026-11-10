@@ -1,0 +1,5 @@
+Gene symbol: MYH6
+NCBI Gene ID: 4624
+Official name: myosin heavy chain 6
+Chromosome: 14
+MYH6 encodes myosin heavy chain 6, also known as alpha-myosin heavy chain, a motor protein found in cardiac muscle. It interacts with actin and uses ATP to generate force during heart muscle contraction.

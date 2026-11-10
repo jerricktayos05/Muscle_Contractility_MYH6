@@ -1,0 +1,8 @@
+Gene: MYH6
+Gene ID: 4624
+Transcript: NM_002471.4
+Reference protein: NP_002462.2
+Protein length: 1939 amino acids
+Variant: c.1410+1G>A
+ClinVar ID: 561059
+Variant type: Splice-donor variant

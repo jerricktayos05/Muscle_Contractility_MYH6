@@ -1,0 +1,6 @@
+Gene: MYH6 
+Transcript: NM_002471.4 
+ClinVar Variation ID: 561059 
+Variant: c.1410+1G>A 
+Variant type: Splice-donor variant 
+Protein consequence: Not specified
